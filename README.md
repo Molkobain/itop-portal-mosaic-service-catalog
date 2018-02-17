@@ -3,8 +3,6 @@
 ### Description
 Set the *mosaic* view as default for the service catalog of the user portal.
 
-*Note: You must have the _mosaic_ view enabled for the service catalog in order to use this extension.*
-
 ![Description decoration](https://raw.githubusercontent.com/Molkobain/itop-portal-mosaic-service-catalog/master/docs/service-catalog-mosaic.PNG)
 
 ### Compatibility
