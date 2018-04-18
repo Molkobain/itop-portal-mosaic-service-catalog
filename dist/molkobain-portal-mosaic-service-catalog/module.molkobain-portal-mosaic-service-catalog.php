@@ -8,7 +8,7 @@ SetupWebPage::AddModule(
 	__FILE__, // Path to the current file, all other file names are relative to the directory containing this file
 	'molkobain-portal-mosaic-service-catalog/1.0.0', array(
 	// Identification
-	'label' => 'Portal: Service catalog as mosaic by default',
+	'label' => 'Portal: Service catalog mosaic view',
 		'category' => 'Portal',
 	// Setup
 	'dependencies' => array(
