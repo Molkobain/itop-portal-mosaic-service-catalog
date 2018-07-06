@@ -1,7 +1,10 @@
 # iTop extension: molkobain-portal-mosaic-service-catalog
 
 ### Description
-Set the *mosaic* view as default for the service catalog of the user portal.
+This extension changes the default view mode of the service catalog within the portal, to *mosaic* (similar to Windows 8).
+* This mode is much more efficient and user friendly if you have a small number of services and service subcategories.
+* In this case, you can display icons, which if well chosen, are understood more rapidly than a text.
+* Navigation on small devices is also easier with this mode.
 
 ![Description decoration](https://raw.githubusercontent.com/Molkobain/itop-portal-mosaic-service-catalog/master/docs/service-catalog-mosaic.PNG)
 
