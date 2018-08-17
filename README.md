@@ -1,3 +1,5 @@
+👋 [Available on iTop Hub!](https://store.itophub.io/en_US/products/molkobain-portal-mosaic-service-catalog)
+
 # iTop extension: molkobain-portal-mosaic-service-catalog
 
 ### Description
