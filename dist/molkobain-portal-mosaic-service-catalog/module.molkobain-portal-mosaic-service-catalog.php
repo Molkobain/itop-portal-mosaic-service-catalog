@@ -14,7 +14,7 @@ SetupWebPage::AddModule(
 	'molkobain-portal-mosaic-service-catalog/1.0.0', array(
 	// Identification
 	'label' => 'Portal: Service catalog mosaic view',
-		'category' => 'Portal',
+		'category' => 'portal',
 	// Setup
 	'dependencies' => array(
 	    'itop-portal/2.4.0',
