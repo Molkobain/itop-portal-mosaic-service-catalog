@@ -36,4 +36,4 @@ If you customized the user portal, you will have to check/modify 2 things on the
 * Service catalog brick: If you are not targetting the standard service catalog, change the brick ID on line 6 (``services``) with yours.
 
 ## Licensing
-This extension is under [MIT license](https://en.wikipedia.org/wiki/MIT_License).
+This extension is under [AGPLv3](https://en.wikipedia.org/wiki/GNU_Affero_General_Public_License).
