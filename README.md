@@ -6,6 +6,11 @@
 * [Installation](#installation)
 * [Configuration](#configuration)
 
+## Support
+If you like this project, you can buy me beer, always appreciated! 🍻😁
+
+[![Donate](https://img.shields.io/static/v1?label=Donate&message=Molkobain%20I/O&color=green&style=flat&logo=paypal)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=BZR88J33D4RG6&source=url)
+
 ## Description
 This extension changes the default view mode of the service catalog within the portal, to *mosaic* (similar to Windows 8).
 * This mode is much more efficient and user friendly if you have a small number of services and service subcategories.
